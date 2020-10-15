@@ -1,7 +1,7 @@
 # HybridDetectionGAN
 This is the source code of the paper "Perceptual underwater image enhancement with deep learning and physical priors"
 
-Long Chen, Zheheng Jiang, Lei Tong, Zhihua Liu, Aite Zhao, Qianni Zhang, Junyu Dong, and Huiyu. "Perceptual underwater image enhancement with deep learning and physical priors".
+Long Chen, Zheheng Jiang, Lei Tong, Zhihua Liu, Aite Zhao, Qianni Zhang, Junyu Dong, and Huiyu Zhou. "Perceptual underwater image enhancement with deep learning and physical priors".
 
 ---
 ### Abstract
